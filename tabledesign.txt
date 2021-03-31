@@ -1,0 +1,19 @@
+cards
+  text
+  type: action, creature, item, support
+  cost
+  image
+  attack
+  defense
+  children: e.g. does it put a card in your hand or summon another card?
+  race: array of races
+  rarity: common, rare, epic, legendary
+  summon ability
+  alt art
+  keywords
+  mechanics
+  attributes
+  metarace: e.g. undead, animal, mer, human
+  set: core
+  release date:
+  version:

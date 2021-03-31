@@ -1,0 +1,19 @@
+{
+  "name": "unite-the-houses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lodash": "^4.17.15",
+    "prettier": "^1.19.1"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0"
+  }
+}
